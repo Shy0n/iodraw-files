@@ -30,10 +30,13 @@
         <mxCell id="5G_HnjbXpOSCrzOuIYaA-6" value="检测定时器标志，更新数码管显示转速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="310" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5G_HnjbXpOSCrzOuIYaA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5G_HnjbXpOSCrzOuIYaA-8" target="5G_HnjbXpOSCrzOuIYaA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5G_HnjbXpOSCrzOuIYaA-8" value="检测按键中断，设置目标转速和方向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5G_HnjbXpOSCrzOuIYaA-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5G_HnjbXpOSCrzOuIYaA-10" value="调用PID调节函数，输出PWM控制电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="450" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
