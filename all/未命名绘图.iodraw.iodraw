@@ -71,8 +71,8 @@
         <mxCell id="5G_HnjbXpOSCrzOuIYaA-22" value="每250ms触发PID调节" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5G_HnjbXpOSCrzOuIYaA-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="405" y="380" width="120" height="40" as="geometry" />
+        <mxCell id="5G_HnjbXpOSCrzOuIYaA-23" value="每秒更新数码管显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
