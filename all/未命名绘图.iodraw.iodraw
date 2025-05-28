@@ -12,7 +12,7 @@
         <mxCell id="bSY2LDOo07tYQjeGsS02-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8uVhUSeibbnab4HOOin--6" value="初始化：&lt;div&gt;配置P1串口；&lt;/div&gt;&lt;div&gt;初始化UART4串口&lt;/div&gt;&lt;div&gt;初始化ADC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="8uVhUSeibbnab4HOOin--6" value="初始化IO口为双向模式" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="170" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
