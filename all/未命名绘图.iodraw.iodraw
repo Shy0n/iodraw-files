@@ -7,11 +7,14 @@
         <mxCell id="5AO41JetWyo3V-55CTVA-0" value="空闲状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="40" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5AO41JetWyo3V-55CTVA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5AO41JetWyo3V-55CTVA-1" target="5AO41JetWyo3V-55CTVA-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5AO41JetWyo3V-55CTVA-1" value="同步头检测成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5AO41JetWyo3V-55CTVA-2" value="数据接收中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="180" width="110" height="40" as="geometry" />
+          <mxGeometry x="440" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5AO41JetWyo3V-55CTVA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.333;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5AO41JetWyo3V-55CTVA-0" target="5AO41JetWyo3V-55CTVA-1">
           <mxGeometry relative="1" as="geometry" />
