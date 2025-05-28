@@ -11,7 +11,7 @@
           <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AO41JetWyo3V-55CTVA-2" value="数据接收中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="90" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
