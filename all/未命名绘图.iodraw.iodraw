@@ -10,8 +10,18 @@
         <mxCell id="5AO41JetWyo3V-55CTVA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5AO41JetWyo3V-55CTVA-1" target="5AO41JetWyo3V-55CTVA-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5AO41JetWyo3V-55CTVA-11" value="下降沿&amp;amp;&amp;amp;高电平&lt;div&gt;时间&amp;gt;15ms&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5AO41JetWyo3V-55CTVA-4">
+          <mxGeometry x="0.1672" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5AO41JetWyo3V-55CTVA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5AO41JetWyo3V-55CTVA-1" target="5AO41JetWyo3V-55CTVA-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5AO41JetWyo3V-55CTVA-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5AO41JetWyo3V-55CTVA-6">
+          <mxGeometry x="-0.3714" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5AO41JetWyo3V-55CTVA-1" value="同步头检测成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="180" width="120" height="40" as="geometry" />
