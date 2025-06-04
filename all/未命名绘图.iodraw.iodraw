@@ -28,16 +28,6 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-7" value="数码管输出当前温度与各个传感器的状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="360" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-15" value="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-14">
-          <mxGeometry x="-0.2359" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="455" y="540" as="targetPoint" />
@@ -56,9 +46,6 @@
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-10" value="定时器0中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="140" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-13" value="null" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="545" width="115" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="545" width="80" height="80" as="geometry" />
