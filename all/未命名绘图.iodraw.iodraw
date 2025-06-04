@@ -38,6 +38,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-9" target="gKCvpa_yrezu_ftHR7Sq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-9" value="1s标志位" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="125" y="450" width="120" height="80" as="geometry" />
         </mxCell>
