@@ -45,12 +45,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-10" value="定时器0中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="140" width="130" height="40" as="geometry" />
+          <mxGeometry x="853.75" y="140" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-19" target="gKCvpa_yrezu_ftHR7Sq-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-32">
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-33" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-32">
           <mxGeometry x="-0.2593" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-20" value="红外信号解调保存数据码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="622.5" y="220" width="127.5" height="50" as="geometry" />
+          <mxGeometry x="856.25" y="220" width="127.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-23" target="gKCvpa_yrezu_ftHR7Sq-26">
           <mxGeometry relative="1" as="geometry" />
@@ -73,10 +73,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-23" value="1s位" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="606.25" y="300" width="160" height="80" as="geometry" />
+          <mxGeometry x="840" y="300" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-26" value="1s标志位置1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="625" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="858.75" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395" y="715" width="120" height="60" as="geometry" />
