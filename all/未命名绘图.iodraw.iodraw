@@ -177,13 +177,8 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-73" target="gKCvpa_yrezu_ftHR7Sq-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-77">
-          <mxGeometry x="-0.2035" y="-3" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-77">
-          <mxGeometry x="0.0057" y="-3" relative="1" as="geometry">
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-82" value="0x1D(按键0)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-77">
+          <mxGeometry x="-0.2558" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
