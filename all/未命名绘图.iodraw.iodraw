@@ -33,7 +33,7 @@
             <mxPoint x="455" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-18" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-17">
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-18" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-17">
           <mxGeometry x="0.4289" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -79,7 +79,7 @@
           <mxGeometry x="858.75" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="395" y="715" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
