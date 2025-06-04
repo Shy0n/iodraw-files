@@ -122,8 +122,8 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-51" value="启用红外手动控制关闭/开启Led/buzze（启用时仍可检测异常）r" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-54" value="定时器2的1s标志位" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="710" width="120" height="80" as="geometry" />
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-54" value="按键外部中断位" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="750" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
