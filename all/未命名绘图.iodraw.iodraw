@@ -271,7 +271,7 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-100" value="通道判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="970" y="870" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-106" value="读取烟雾浓度阈值数据，通道标志位置0" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-106" value="读取烟雾浓度阈值数据，通道标志位置1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-109" value="设置温度警报阈值" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
