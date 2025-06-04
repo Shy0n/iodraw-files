@@ -66,8 +66,8 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-20" value="红外信号解调保存数据码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="622.5" y="220" width="127.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="290" width="115" height="80" as="geometry" />
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-23" value="1s位" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="290" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
