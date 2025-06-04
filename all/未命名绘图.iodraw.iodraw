@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-19" value="检测到按键" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="415" y="545" width="80" height="80" as="geometry" />
+          <mxGeometry x="480" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-20" target="gKCvpa_yrezu_ftHR7Sq-23">
           <mxGeometry relative="1" as="geometry" />
