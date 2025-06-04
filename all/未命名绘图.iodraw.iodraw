@@ -185,6 +185,11 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-73" target="gKCvpa_yrezu_ftHR7Sq-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-87" value="0x11(按键2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-79">
+          <mxGeometry x="0.095" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-73" target="gKCvpa_yrezu_ftHR7Sq-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
