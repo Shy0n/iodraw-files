@@ -72,6 +72,11 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-23" target="gKCvpa_yrezu_ftHR7Sq-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-29" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-27">
+          <mxGeometry x="-0.0524" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-23" value="1s位" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="606.25" y="300" width="160" height="80" as="geometry" />
         </mxCell>
