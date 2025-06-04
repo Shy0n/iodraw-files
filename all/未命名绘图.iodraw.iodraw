@@ -253,7 +253,7 @@
           <mxGeometry x="970" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-100" value="键值判断（数字）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1160" y="750" width="120" height="80" as="geometry" />
+          <mxGeometry x="970" y="870" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
