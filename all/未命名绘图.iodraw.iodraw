@@ -102,11 +102,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-46" target="gKCvpa_yrezu_ftHR7Sq-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-46" value="检测当前模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-48" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-51" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
