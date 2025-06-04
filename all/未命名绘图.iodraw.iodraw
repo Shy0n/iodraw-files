@@ -97,6 +97,11 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-46" target="gKCvpa_yrezu_ftHR7Sq-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-50" value="0/默认自动检测" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-49">
+          <mxGeometry x="-0.1444" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-46" value="检测当前模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="550" width="120" height="80" as="geometry" />
         </mxCell>
