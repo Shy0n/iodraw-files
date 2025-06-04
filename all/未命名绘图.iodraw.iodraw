@@ -280,8 +280,19 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-109" value="读取温度阈值数据，通道标志位置1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-112" target="gKCvpa_yrezu_ftHR7Sq-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-116" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-115">
+          <mxGeometry x="0.1307" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-112" value="“*”键值校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-114" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
