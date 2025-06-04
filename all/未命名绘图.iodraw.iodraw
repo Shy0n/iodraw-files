@@ -28,13 +28,11 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-7" value="数码管输出当前温度与各个传感器的状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="360" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="455" y="540" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-9" target="gKCvpa_yrezu_ftHR7Sq-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-18" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-17">
-          <mxGeometry x="0.4289" y="-4" relative="1" as="geometry">
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-35" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-34">
+          <mxGeometry x="-0.1302" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -56,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-19" value="检测到按键" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="460" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-20" target="gKCvpa_yrezu_ftHR7Sq-23">
           <mxGeometry relative="1" as="geometry" />
