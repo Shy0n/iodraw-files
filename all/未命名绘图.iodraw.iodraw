@@ -43,16 +43,6 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-10" value="定时器0中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="853.75" y="140" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="gKCvpa_yrezu_ftHR7Sq-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="480" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-33" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-32">
-          <mxGeometry x="-0.2593" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-20" target="gKCvpa_yrezu_ftHR7Sq-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -72,9 +62,6 @@
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-26" value="1s标志位置1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="858.75" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-36" target="gKCvpa_yrezu_ftHR7Sq-38">
           <mxGeometry relative="1" as="geometry" />
