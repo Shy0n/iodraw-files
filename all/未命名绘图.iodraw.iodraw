@@ -28,14 +28,6 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-7" value="数码管输出当前温度与各个传感器的状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="360" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-9" target="gKCvpa_yrezu_ftHR7Sq-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-35" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-34">
-          <mxGeometry x="-0.1302" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-9" target="gKCvpa_yrezu_ftHR7Sq-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -48,16 +40,15 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-10" value="定时器0中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="853.75" y="140" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-19" target="gKCvpa_yrezu_ftHR7Sq-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="gKCvpa_yrezu_ftHR7Sq-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="480" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-33" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gKCvpa_yrezu_ftHR7Sq-32">
           <mxGeometry x="-0.2593" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-20" target="gKCvpa_yrezu_ftHR7Sq-23">
           <mxGeometry relative="1" as="geometry" />
