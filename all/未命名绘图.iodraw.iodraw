@@ -134,6 +134,9 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-57" value="外部中断标志位置1" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1040" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-59" target="gKCvpa_yrezu_ftHR7Sq-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-59" value="定时器2中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="140" width="120" height="40" as="geometry" />
         </mxCell>
@@ -145,7 +148,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-62" value="1s计数位为0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gKCvpa_yrezu_ftHR7Sq-62" value="计数位==1000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1190" y="210" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-63" value="1s标志位置1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
