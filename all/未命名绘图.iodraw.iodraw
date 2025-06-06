@@ -168,7 +168,7 @@
           <mxGeometry x="1910" y="220" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-63" value="1s标志位置1" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2130" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1930" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-73" target="gKCvpa_yrezu_ftHR7Sq-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -308,7 +308,7 @@
           <mxGeometry x="1410" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="17I4KsxzVVb3s9UIQ77w-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1420" y="250" width="90" height="80" as="geometry" />
+          <mxGeometry x="1400" y="250" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
