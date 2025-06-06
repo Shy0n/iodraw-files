@@ -296,11 +296,22 @@
         <mxCell id="5kv7nkZFTM8NnulA7nqU-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5kv7nkZFTM8NnulA7nqU-37" target="5kv7nkZFTM8NnulA7nqU-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-46" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5kv7nkZFTM8NnulA7nqU-45">
+          <mxGeometry x="-0.0436" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5kv7nkZFTM8NnulA7nqU-37" value="收到键值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="830" y="1500" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5kv7nkZFTM8NnulA7nqU-44" target="5kv7nkZFTM8NnulA7nqU-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5kv7nkZFTM8NnulA7nqU-44" value="键值校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-47" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
