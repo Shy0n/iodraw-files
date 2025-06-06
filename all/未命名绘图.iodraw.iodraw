@@ -285,8 +285,8 @@
         <mxCell id="5kv7nkZFTM8NnulA7nqU-18" value="舵机角度180/90/0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="340" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5kv7nkZFTM8NnulA7nqU-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-21" value="数码管显示光强百分比以及模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="565" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
