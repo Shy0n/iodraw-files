@@ -80,6 +80,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-36" target="5kv7nkZFTM8NnulA7nqU-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-36" value="模式" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="1380" width="120" height="80" as="geometry" />
         </mxCell>
@@ -328,6 +331,9 @@
         </mxCell>
         <mxCell id="5kv7nkZFTM8NnulA7nqU-50" value="计算计时时间&lt;br&gt;定时器1开始计时" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-53" value="模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="1540" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
