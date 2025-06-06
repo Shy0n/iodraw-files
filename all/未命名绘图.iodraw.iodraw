@@ -343,7 +343,7 @@
         <mxCell id="17I4KsxzVVb3s9UIQ77w-24" value="wptr++" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2250" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5kv7nkZFTM8NnulA7nqU-3" value="检测模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-3" value="键值（任意数字键）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5kv7nkZFTM8NnulA7nqU-5" value="键值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
