@@ -343,8 +343,8 @@
         <mxCell id="5kv7nkZFTM8NnulA7nqU-53" value="定时器1的1s标志位" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="1500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5kv7nkZFTM8NnulA7nqU-55" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1200" y="1510" width="120" height="60" as="geometry" />
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-55" value="串口输出计时至上位机" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1155" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
