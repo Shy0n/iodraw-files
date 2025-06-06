@@ -349,7 +349,7 @@
         <mxCell id="5kv7nkZFTM8NnulA7nqU-55" value="串口输出计时至上位机" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1155" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5kv7nkZFTM8NnulA7nqU-58" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-58" value="设置时间与计时时间" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1310" y="1500" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
