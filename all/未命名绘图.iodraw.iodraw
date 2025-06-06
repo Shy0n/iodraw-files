@@ -284,7 +284,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5kv7nkZFTM8NnulA7nqU-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5kv7nkZFTM8NnulA7nqU-29" target="5kv7nkZFTM8NnulA7nqU-35">
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5kv7nkZFTM8NnulA7nqU-29" target="5kv7nkZFTM8NnulA7nqU-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5kv7nkZFTM8NnulA7nqU-29" value="模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -293,8 +293,8 @@
         <mxCell id="5kv7nkZFTM8NnulA7nqU-32" value="覆盖光强百分比占用数码管，显示模式" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5kv7nkZFTM8NnulA7nqU-35" value="获取键值" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="830" y="1510" width="120" height="60" as="geometry" />
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-37" value="模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="1500" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
