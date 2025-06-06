@@ -167,6 +167,9 @@
         <mxCell id="5kv7nkZFTM8NnulA7nqU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-73" target="5kv7nkZFTM8NnulA7nqU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-73" target="5kv7nkZFTM8NnulA7nqU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-73" value="检测模式" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="440" width="120" height="80" as="geometry" />
         </mxCell>
@@ -331,7 +334,10 @@
           <mxGeometry x="2250" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5kv7nkZFTM8NnulA7nqU-3" value="检测模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-5" value="检测模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="440" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
