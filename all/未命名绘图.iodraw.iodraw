@@ -89,17 +89,6 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-40" value="收到红外键码" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-54" target="gKCvpa_yrezu_ftHR7Sq-90" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-103" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gKCvpa_yrezu_ftHR7Sq-91" vertex="1" connectable="0">
-          <mxGeometry x="-0.55" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-54" value="按键外部中断位" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="1140" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-56" target="gKCvpa_yrezu_ftHR7Sq-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -147,32 +136,6 @@
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-73" value="检测模式" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="440" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-90" target="gKCvpa_yrezu_ftHR7Sq-92" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-90" value="获取键位数据" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-92" target="gKCvpa_yrezu_ftHR7Sq-95" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-104" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gKCvpa_yrezu_ftHR7Sq-96" vertex="1" connectable="0">
-          <mxGeometry x="-0.24" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-92" value="键位数据校验" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="1140" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-95" target="gKCvpa_yrezu_ftHR7Sq-97" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-95" value="定义键值" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="790" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-97" value="数字键值校验" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="980" y="1140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17I4KsxzVVb3s9UIQ77w-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="17I4KsxzVVb3s9UIQ77w-5" edge="1">
           <mxGeometry relative="1" as="geometry">
