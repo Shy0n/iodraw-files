@@ -291,8 +291,8 @@
         <mxCell id="5kv7nkZFTM8NnulA7nqU-21" value="数码管显示光强百分比以及模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="565" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5kv7nkZFTM8NnulA7nqU-23" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="550" width="80" height="80" as="geometry" />
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-23" value="角度校验" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="550" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
