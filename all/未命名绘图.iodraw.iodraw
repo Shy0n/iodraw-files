@@ -307,7 +307,7 @@
         <mxCell id="17I4KsxzVVb3s9UIQ77w-5" value="串口一中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2120" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="17I4KsxzVVb3s9UIQ77w-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="17I4KsxzVVb3s9UIQ77w-8" value="TI" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2110" y="230" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
