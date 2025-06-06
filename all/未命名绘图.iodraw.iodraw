@@ -16,13 +16,11 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-1" value="系统各个模块初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="285" y="220" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-2" target="gKCvpa_yrezu_ftHR7Sq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-2" value="进入主循环" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="285" y="290" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="gKCvpa_yrezu_ftHR7Sq-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="410" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-9" target="gKCvpa_yrezu_ftHR7Sq-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -165,30 +163,6 @@
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-63" value="1s标志位置1" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1930" y="355" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-73" target="gKCvpa_yrezu_ftHR7Sq-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-82" value="0x1D(按键0)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gKCvpa_yrezu_ftHR7Sq-77" vertex="1" connectable="0">
-          <mxGeometry x="-0.2558" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-73" target="gKCvpa_yrezu_ftHR7Sq-78" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-87" value="0x11(按键2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gKCvpa_yrezu_ftHR7Sq-79" vertex="1" connectable="0">
-          <mxGeometry x="0.095" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-73" target="gKCvpa_yrezu_ftHR7Sq-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-86" value="0x10(按键1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gKCvpa_yrezu_ftHR7Sq-85" vertex="1" connectable="0">
-          <mxGeometry x="-0.0747" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-73" value="键值" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="440" width="120" height="80" as="geometry" />
