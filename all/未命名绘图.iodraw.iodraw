@@ -16,11 +16,6 @@
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-1" value="系统各个模块初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="285" y="220" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gKCvpa_yrezu_ftHR7Sq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gKCvpa_yrezu_ftHR7Sq-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gKCvpa_yrezu_ftHR7Sq-2" value="进入主循环" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="285" y="290" width="130" height="40" as="geometry" />
         </mxCell>
