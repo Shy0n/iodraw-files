@@ -299,8 +299,8 @@
         <mxCell id="5kv7nkZFTM8NnulA7nqU-37" value="收到键值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="830" y="1500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5kv7nkZFTM8NnulA7nqU-44" value="收到键值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="1500" width="120" height="80" as="geometry" />
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-44" value="键值校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="1500" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
