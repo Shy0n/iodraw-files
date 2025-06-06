@@ -374,11 +374,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5kv7nkZFTM8NnulA7nqU-63" target="5kv7nkZFTM8NnulA7nqU-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5kv7nkZFTM8NnulA7nqU-63" value="烟雾浓度ADC值超过设置阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="1620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5kv7nkZFTM8NnulA7nqU-65" value="关闭继电器（点亮P22）" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1155" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5kv7nkZFTM8NnulA7nqU-68" value="串口中断标志位" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="1740" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
