@@ -415,14 +415,16 @@
         <mxCell id="vcRyIYNgqy05VZkCfnU6-2" value="计算h=(b-a)/n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vcRyIYNgqy05VZkCfnU6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vcRyIYNgqy05VZkCfnU6-3" target="vcRyIYNgqy05VZkCfnU6-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vcRyIYNgqy05VZkCfnU6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vcRyIYNgqy05VZkCfnU6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vcRyIYNgqy05VZkCfnU6-3" value="初始化sum=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vcRyIYNgqy05VZkCfnU6-4" value="&lt;font face=&quot;Consolas&quot;&gt;&lt;span style=&quot;font-size: 12.6667px; background-color: rgb(249, 250, 251);&quot;&gt;for i from 0 to n-1&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="420" width="190" height="60" as="geometry" />
+        <mxCell id="vcRyIYNgqy05VZkCfnU6-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
